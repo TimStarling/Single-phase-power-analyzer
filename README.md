@@ -1,3 +1,9 @@
+<div align="right">
+
+[中文](README.md) | [English](README_EN.md)
+
+</div>
+
 # ammeter
 基于TI开发板的单相功率分析仪-电赛2024年H题 
 省赛一等奖作品
